@@ -134,6 +134,7 @@ Pessimistic Lock	2
 Optimistic Lock	3
 Redis Distributed Lock	4
 결과 분석
+
 1️⃣ Atomic SQL Update
 
 가장 높은 성능을 보였다.
